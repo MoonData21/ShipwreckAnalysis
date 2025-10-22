@@ -1,17 +1,23 @@
 # ShipwreckAnalysis
 
-The project was completed with a Jupyter Notebook, Pandas, and Matplotlib.
-
 INTRODUCTION:
 Problem Statement: Reviewing the Titanic and the Estonia Datasets
-The main objective of this project is to examine both the datasets provided for the Titanic and the Estonia, and determine the following questions:
+This project explores survival patterns from two of the most well-known maritime disasters — the Titanic and the Estonia — through data analysis and visualization. Using Python libraries such as Pandas for data manipulation and Matplotlib for visualization, I examined and compared demographic and survival data to uncover insights into the human and social factors behind each tragedy.
 
-QUESTIONS to be Analyzed:
+Tools: Jupyter Notebook | Pandas | Matplotlib
 
-Which crash was considered to be worse based factors that will be determined in the analysis.
-What was the mean age and gender for survival and death.
-Which ship had a better survival rate (broken down by passengers, crew, and both passengers & crew together).
-I will examine my survival rate for each ship, and determine which ship I had a greater chance of survival.
-Did the wealthier passengers on the Titanic have a better chance of survival than the regular passengers and the crew members?
-Was it true that the women and children took priority for the lifeboats?
-What was the breakdown of the elderly by gender that survived?
+Key Objectives:
+
+Compare the overall severity of the two shipwrecks using survival-related metrics.
+
+Analyze survival rates by age, gender, and role (passenger vs. crew).
+
+Determine which ship offered a greater chance of survival.
+
+Investigate whether wealth and class influenced survival on the Titanic.
+
+Examine the truth behind the “women and children first” principle.
+
+Explore survival rates among elderly passengers, broken down by gender.
+
+This project demonstrates my ability to perform data wrangling, aggregation, and exploratory analysis in Python while visualizing real-world historical data to answer complex questions.
